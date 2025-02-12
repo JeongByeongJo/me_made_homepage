@@ -3728,6 +3728,12 @@ img.u-pull-left {
     font-size   : var(--text-lg);
 }
 
+.folio-list__item-describe {
+    font-family : var(--font-1);
+    font-weight : 100;
+    font-size   : var(--text-sm);
+}
+
 .folio-list__item-cat {
     font-size   : var(--text-sm);
     color       : var(--color-text-light);
